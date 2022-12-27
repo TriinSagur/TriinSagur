@@ -1,5 +1,2 @@
-- 🔭 I’m currently working on a simple android application
 - 🌱 I’m currently learning Java, Spring Boot, Go, Vue.js, AngularJS, Javascript, Bootstrap, CSS
-- 🤔 I’m looking for help with finding a junior developer gig
 - 👀 I’m interested in everything related to coding
-- 📫 How to reach me: www.linkedin.com/in/triin-sagur
